@@ -75,3 +75,19 @@ Transformé los df a CSV y los subí al bucket
 Y verifiqué que hayan quedado en el bucket
 ![](./Images/ArchivosEnS3.png)
 
+## 5. Video
+Se puede observar el video en este enlace:
+
+## 6. Conclusiones
+
+- Primero, se subió el archivo Casos_positivos_de_COVID-19_en_Colombia.csv a Google Drive. Este archivo contiene los datos detallados sobre los casos positivos de COVID-19 en Colombia, permitiendo un análisis exhaustivo de la situación en el país.
+
+- Luego, se formularon una serie de preguntas relevantes sobre los datos y se almacenaron las respuestas en un archivo CSV. Este archivo resultante fue posteriormente guardado en el servicio de almacenamiento en la nube de Amazon, S3.
+
+- El análisis se extendió a varias dimensiones, incluyendo la distribución de casos por edad y por departamento, así como las fechas con mayor incidencia de casos. Estos análisis se reflejaron en varios archivos CSV.
+
+- Cada archivo generado fue subido a S3, lo que facilitó la gestión y el acceso a los datos de manera segura y eficiente. El uso de S3 permitió mantener una estructura organizada y accesible para futuros análisis.
+
+- Además, se mejoraron significativamente las habilidades en el uso de S3 en AWS y en el manejo de PySpark. Este proceso también incluyó una profundización en el concepto de dataframes, mejorando la capacidad de manipulación y análisis de grandes volúmenes de datos.
+
+- Por último logré cumplir con todo lo propuesto por el proyecto
