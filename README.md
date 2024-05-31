@@ -53,3 +53,15 @@ Formulamos las preguntas y almacenamos los resultados en un archivo CSV, que lue
 ### 3.2 Las 10 ciudades con más casos de COVID-19 ordenadas de mayor a menor
 ![](./Images/3-2.png)
 
+### 3.3 Los 10 días con más casos de COVID-19 ordenados de mayor a menor
+![](./Images/3-3.png)
+
+### 3.4 Distribución de casos de COVID-19 por edades en Colombia
+![](./Images/3-4.png)
+
+### 3.5 Distribución de casos de COVID-19 por departamentos en Colombia
+![](./Images/3-5.png)
+
+## 4. Subir archivos a Amazon S3
+Hacemos la conexión con el Bucket de AWS
+![](./Images/ConexionBucket.png)
