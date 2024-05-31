@@ -65,3 +65,13 @@ Formulamos las preguntas y almacenamos los resultados en un archivo CSV, que lue
 ## 4. Subir archivos a Amazon S3
 Hacemos la conexión con el Bucket de AWS
 ![](./Images/ConexionBucket.png)
+
+Creamos la carpeta en el bucket llamada colab/
+![](./Images/Carpeta.png)
+
+Transformé los df a CSV y los subí al bucket
+![](./Images/SubiendoArchivosS3.png)
+
+Y verifiqué que hayan quedado en el bucket
+![](./Images/ArchivosEnS3.png)
+
