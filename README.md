@@ -76,7 +76,7 @@ Y verifiqué que hayan quedado en el bucket
 ![](./Images/ArchivosEnS3.png)
 
 ## 5. Video
-Se puede observar el video en este enlace:
+Se puede observar el video en este enlace: https://youtu.be/S0wN1VvXnI4
 
 ## 6. Conclusiones
 
